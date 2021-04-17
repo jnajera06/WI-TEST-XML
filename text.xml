@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document>
+    <module lecturer="Mark">Info Retrieval and Data Management</module>
+    <ca>
+        <title>Assignment 1</title>
+        <submission_time>23:59</submission_time>
+        <submission_date>30/10/2020</submission_date>
+    </ca>
+    <module>Advanced Databases</module>
+    <module/>
+<!-- This is a comment 
+This is a multi-line comment -->
+
+</document>
